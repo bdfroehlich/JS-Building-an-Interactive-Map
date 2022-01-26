@@ -16,6 +16,7 @@ marker.addTo(myMap).bindPopup('<p1><b>The Hoxton, Paris</b></p1>').openPopup()
 
 
 // draw the 2nd arrondissement
+//each latlng needs to have a "," between them
 const latlngs = [                                          
     [48.863368120198004, 2.3509079846928516],
     [48.86933262048345, 2.3542531602919805],
